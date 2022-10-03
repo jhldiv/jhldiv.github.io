@@ -41,11 +41,9 @@ body {
   }
 
 #favorites {
-    border: 5px solid wheat;
-    border-radius: 25px;
-    border-collapse: collapse;
+    border-radius: 25px 25px;
     margin: 10px;
-    background-color: cadetblue;
+    background-color: rgb(55, 75, 0);
   }
 
 #school {
